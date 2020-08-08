@@ -79,7 +79,7 @@ namespace TrainCards
                                 if (game.RoundFive(choice))
                                 {
                                     Console.ForegroundColor = ConsoleColor.Green;
-                                    Console.WriteLine("Congrats, You passed Round four !");
+                                    Console.WriteLine("Congrats, You passed The Last Round !");
                                     Console.ResetColor();
                                     choice = Console.ReadLine();
                                 }
